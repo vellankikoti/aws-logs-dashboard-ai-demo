@@ -1,0 +1,28 @@
+timestamp,message
+1627846371000,INFO: User login successful
+1627846372000,ERROR: Database connection failed
+1627846373000,WARN: Memory usage high
+1627846374000,INFO: Order processed
+1627846375000,ERROR: Payment gateway timeout
+1627846376000,INFO: Health check passed
+1627846377000,WARN: Slow response on /api/orders
+1627846378000,INFO: New user registered
+1627846379000,ERROR: User authentication failed
+1627846380000,INFO: Password reset requested
+1627846381000,WARN: CPU load 85%
+1627846382000,INFO: Item added to cart
+1627846383000,ERROR: Service unavailable
+1627846384000,INFO: Product page rendered
+1627846385000,ERROR: Cart service timeout
+1627846386000,INFO: Checkout initiated
+1627846387000,ERROR: Payment declined
+1627846388000,INFO: Order completed
+1627846389000,WARN: High memory usage on node-1
+1627846390000,INFO: Metrics flushed
+1627846391000,INFO: Admin login detected
+1627846392000,ERROR: Billing system unavailable
+1627846393000,INFO: Scheduled job started
+1627846394000,WARN: Pod restarted unexpectedly
+1627846395000,INFO: System health check passed
+1627846396000,ERROR: Inventory sync failed
+1627846397000,INFO: Product updated successfully
